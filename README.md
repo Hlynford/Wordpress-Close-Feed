@@ -1,2 +1,2 @@
 # Wordpress-Close-Feed
-Wordpress 关闭Feed订阅插件
+通过此插件，可以快速关闭关闭Wordpress的Feed订阅功能
